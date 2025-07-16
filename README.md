@@ -3,7 +3,7 @@
 A clean, responsive, and elegant personal portfolio website built using **HTML** and **CSS**.  
 It showcases my projects, skills, and a little bit about who I am — all wrapped in a visually appealing layout.
 
-> 🔗 [Live Demo on Netlify]([https://your-portfolio-name.netlify.app](https://vaish-my-portfolio.netlify.app/)) 
+> 🔗 [Live Demo on Netlify](https://vaish-my-portfolio.netlify.app/)
 
 ---
 
